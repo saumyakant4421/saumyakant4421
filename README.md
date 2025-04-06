@@ -26,7 +26,7 @@ I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedic
 ---
 
 ### <p style="font-family: 'Poppins', sans-serif; color: #FF5733;">📫 Connect with Me</p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/saumya-kant-167b99191/](https://www.linkedin.com/in/saumya-kant-kamal-167b99191/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/saumya-kant-kamal-167b99191/)]) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saumyakant4421)
 
 ---
