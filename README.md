@@ -4,7 +4,7 @@ I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedic
 
 ---
 
-### <p style="font-family: 'Poppins', sans-serif; color: #FF5733;">🚀 About Me</p>
+### <p style="font-family: 'Poppins', sans-serif; color: #FF5733;">About Me</p>
 -  **Tech Stack**: React, Node.js, Python, Firebase, AWS, Docker, Kubernetes
 -  **Backend & API Development**: RESTful APIs, Express.js, Flask, DynamoDB
 -  **Data Science & Machine Learning**: Pandas, Scikit-Learn
