@@ -32,7 +32,7 @@ I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedic
 
 ---
 
-### <p style="font-family: 'Poppins', sans-serif; color: #3399FF;">🛠️ Libraries, Frameworks & Technologies</p>
+### <p style="font-family: 'Poppins', sans-serif; color: #3399FF;">Libraries, Frameworks & Technologies</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
