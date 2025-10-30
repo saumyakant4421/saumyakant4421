@@ -1,4 +1,4 @@
-### <p align="center" style="font-family: 'Poppins', sans-serif;">Hi there, I'm Saumya Kant! 👋</p>
+### <p align="center" style="font-family: 'Poppins', sans-serif;">Hi there, I'm Saumya Kant! :)</p>
 
 I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedicated to solving real-world problems through technology. My work spans across front-end and back-end development, data processing, and building scalable applications.
 
@@ -13,19 +13,19 @@ I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedic
 
 ---
 
-### <p style="font-family: 'Poppins', sans-serif; color: #3399FF;">🏗️ Projects</p>
+### <p style="font-family: 'Poppins', sans-serif; color: #3399FF;">Projects</p>
 
-#### 🔥 [Streamverse](https://github.com/saumyakant4421/streamverse)
+#### [Streamverse](https://github.com/saumyakant4421/streamverse)
 - A **MERN + Firebase-based** OTT movie recommendation platform.
 - Features **hybrid MVC within microservices**, real-time streaming availability, and advanced recommendations.
 
-#### 📢 [Catalyst Petition Platform](https://github.com/saumyakant4421/Catalyst-v1)
+#### [Catalyst Petition Platform](https://github.com/saumyakant4421/Catalyst-v1)
 - A **social impact platform** for online petitions.
 - Includes **visualized dashboards, authentication with OTP and Google Login**.
 
 ---
 
-### <p style="font-family: 'Poppins', sans-serif; color: #FF5733;">📫 Connect with Me</p>
+### <p style="font-family: 'Poppins', sans-serif; color: #FF5733;">Connect with Me</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumya-kant-kamal-167b99191/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saumyakant4421)
@@ -51,10 +51,10 @@ I'm a passionate **Full-Stack Developer, Data Analyst, and ML Enthusiast** dedic
 
 ---
 
-### <p style="font-family: 'Poppins', sans-serif;">📊 GitHub Stats</p>
+### <p style="font-family: 'Poppins', sans-serif;">GitHub Stats</p>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumyakant4421&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyakant4421&layout=compact&theme=radical)  
 
 ---
 
-⭐ **Let's build something amazing together!** 🚀  
+**Let's build something amazing together!**  
